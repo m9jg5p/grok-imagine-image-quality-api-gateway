@@ -105,6 +105,16 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-a30b1d) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, other languages** — 9 more language builds: 中文 [grok-imagine-image-quality-api-cn](https://github.com/cm2dnh/grok-imagine-image-quality-api-cn) · Deutsch [grok-imagine-image-quality-api-de](https://github.com/lt4exrv2x5zqj/grok-imagine-image-quality-api-de) · Español `grok-imagine-image-quality-api-es` · Français [grok-imagine-image-quality-api-fr](https://github.com/e8fkun488/grok-imagine-image-quality-api-fr) · Bahasa [grok-imagine-image-quality-api-id](https://github.com/cf18pveehcua86/grok-imagine-image-quality-api-id) · 日本語 [grok-imagine-image-quality-api-ja](https://github.com/na9sz7agrva9l/grok-imagine-image-quality-api-ja) · 한국어 [grok-imagine-image-quality-api-ko](https://github.com/ond750/grok-imagine-image-quality-api-ko) · Português `grok-imagine-image-quality-api-pt` · Русский [grok-imagine-image-quality-api-ru](https://github.com/ll09ddjs6o2vbg/grok-imagine-image-quality-api-ru)
+- **More models in this language** — [midjourney-api-gateway](https://github.com/apimartxc3iskw/midjourney-api-gateway) · [gemini-2-5-flash-image-preview-api-gateway](https://github.com/mcqdlebg/gemini-2-5-flash-image-preview-api-gateway) · [nano-banana-api-gateway](https://github.com/gix2kust/nano-banana-api-gateway) · [gemini-3-1-flash-image-preview-api-gateway](https://github.com/nn6jtthao8/gemini-3-1-flash-image-preview-api-gateway) · [nano-banana-2-api-gateway](https://github.com/u9mdw3pt594q2r/nano-banana-2-api-gateway) · [gemini-3-pro-image-preview-api-gateway](https://github.com/uqu9q/gemini-3-pro-image-preview-api-gateway)
+- **Topic hubs** — every build of this model, all languages: [grok-imagine-image-quality](https://github.com/topics/grok-imagine-image-quality) · [grok-imagine-image-quality-api](https://github.com/topics/grok-imagine-image-quality-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
